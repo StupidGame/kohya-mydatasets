@@ -11,25 +11,25 @@ enable_bucket = true
 
 
     [[datasets.subsets]]
-    image_dir = '/content/drive/MyDrive/train/reina'
+    image_dir = '/content/kohya-datasets/reina'
     color_aug = false
     num_repeats = 4
     shuffle_caption = true
 
     [[datasets.subsets]]
-    image_dir = '/content/drive/MyDrive/train/makina'
+    image_dir = '/content/kohya-datasets/makina'
     color_aug = false
     num_repeats = 4
     shuffle_caption = true
 
     [[datasets.subsets]]
-    image_dir = '/content/drive/MyDrive/train/kaname'
+    image_dir = '/content/kohya-datasets/kaname'
     color_aug = false
     num_repeats = 4
     shuffle_caption = true
     
     [[datasets.subsets]]
-    image_dir = '/content/drive/MyDrive/train/girl'
+    image_dir = '/content/kohya-datasets/girl'
     color_aug = false
     num_repeats = 4
     is_reg = true
