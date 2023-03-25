@@ -1,0 +1,34 @@
+[general]
+caption_extension = '.txt'
+
+[[datasets]]
+resolution = 512
+batch_size = 2
+keep_tokens = 2
+enable_bucket = true
+
+
+    [[datasets.subsets]]
+    image_dir = '/content/drive/MyDrive/train/peeing'
+    class_tokens = 'peeing 1girl'
+    color_aug = false
+    num_repeats = 8
+
+    [[datasets.subsets]]
+    image_dir = '/content/drive/MyDrive/train/scat'
+    class_tokens = 'scat 1girl'
+    color_aug = false
+    num_repeats = 8
+
+    [[datasets.subsets]]
+    image_dir = '/content/drive/MyDrive/train/diaper'
+    class_tokens = 'diaper 1girl'
+    color_aug = false
+    num_repeats = 8
+    
+    [[datasets.subsets]]
+    image_dir = '/content/drive/MyDrive/train/girl'
+    color_aug = false
+    num_repeats = 8
+    class_tokens = '1girl'
+    is_reg = true

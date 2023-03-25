@@ -1,0 +1,35 @@
+[general]
+shuffle_caption = true
+caption_extension = '.txt'
+keep_tokens = 2
+
+[[datasets]]
+resolution = 512
+batch_size = 2
+keep_tokens = 2
+enable_bucket = true
+
+
+    [[datasets.subsets]]
+    image_dir = '/content/drive/MyDrive/train/reina'
+    color_aug = false
+    num_repeats = 4
+    shuffle_caption = true
+
+    [[datasets.subsets]]
+    image_dir = '/content/drive/MyDrive/train/makina'
+    color_aug = false
+    num_repeats = 4
+    shuffle_caption = true
+
+    [[datasets.subsets]]
+    image_dir = '/content/drive/MyDrive/train/kaname'
+    color_aug = false
+    num_repeats = 4
+    shuffle_caption = true
+    
+    [[datasets.subsets]]
+    image_dir = '/content/drive/MyDrive/train/girl'
+    color_aug = false
+    num_repeats = 4
+    is_reg = true
