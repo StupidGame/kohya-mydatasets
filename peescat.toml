@@ -9,19 +9,19 @@ enable_bucket = true
 
 
     [[datasets.subsets]]
-    image_dir = '/content/kohya-mydatasets/peeing'
+    image_dir = '/content/kohya-mydatasets/peescat/peeing'
     class_tokens = 'peeing 1girl'
     color_aug = false
     num_repeats = 8
 
     [[datasets.subsets]]
-    image_dir = '/content/kohya-mydatasets/scat'
+    image_dir = '/content/kohya-mydatasets/peescat/scat'
     class_tokens = 'scat 1girl'
     color_aug = false
     num_repeats = 8
 
     [[datasets.subsets]]
-    image_dir = '/content/kohya-mydatasets/diaper'
+    image_dir = '/content/kohya-mydatasets/peescat/diaper'
     class_tokens = 'diaper 1girl'
     color_aug = false
     num_repeats = 8
