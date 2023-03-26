@@ -11,25 +11,25 @@ enable_bucket = true
 
 
     [[datasets.subsets]]
-    image_dir = '/content/kohya-datasets/reina'
+    image_dir = 'C:\Users\it222137\kohya-mydatasets\reina'
     color_aug = false
     num_repeats = 4
     shuffle_caption = true
 
     [[datasets.subsets]]
-    image_dir = '/content/kohya-datasets/makina'
+    image_dir = 'C:\Users\it222137\kohya-mydatasets\makina'
     color_aug = false
     num_repeats = 4
     shuffle_caption = true
 
     [[datasets.subsets]]
-    image_dir = '/content/kohya-datasets/kaname'
+    image_dir = 'C:\Users\it222137\kohya-mydatasets\kaname'
     color_aug = false
     num_repeats = 4
     shuffle_caption = true
     
     [[datasets.subsets]]
-    image_dir = '/content/kohya-datasets/girl'
+    image_dir = 'C:\Users\it222137\kohya-mydatasets\girl'
     color_aug = false
     num_repeats = 4
     is_reg = true
