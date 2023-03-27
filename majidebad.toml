@@ -1,0 +1,24 @@
+[general]
+shuffle_caption = true
+caption_extension = '.txt'
+keep_tokens = 2
+
+[[datasets]]
+resolution = 512
+batch_size = 2
+keep_tokens = 2
+enable_bucket = true
+
+
+    [[datasets.subsets]]
+    image_dir = '/content/kohya-mydatasets/majidebad'
+    color_aug = false
+    num_repeats = 1
+    class_tokens = 'majidebad person'
+    
+    [[datasets.subsets]]
+    image_dir = '/content/kohya-mydatasets/person'
+    color_aug = false
+    class_tokens = 'majidebad person'
+    num_repeats = 8
+    is_reg = true
