@@ -14,6 +14,7 @@ enable_bucket = true
 
     [[datasets.subsets]]
     image_dir = '/content/kohya-mydatasets/peescat/scat'
+    class_tokens = 'scat 1girl'
     color_aug = false
     num_repeats = 8
 
