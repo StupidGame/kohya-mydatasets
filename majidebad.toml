@@ -20,5 +20,5 @@ enable_bucket = true
     image_dir = '/content/kohya-mydatasets/person'
     color_aug = false
     class_tokens = 'majidebad person'
-    num_repeats = 8
+    num_repeats = 2
     is_reg = true
