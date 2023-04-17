@@ -10,10 +10,3 @@ enable_bucket = true
     image_dir = '/content/kohya-mydatasets/peescat/diaper'
     color_aug = false
     num_repeats = 8
-    
-    [[datasets.subsets]]
-    image_dir = '/content/kohya-mydatasets/girl'
-    color_aug = false
-    class_tokens = '1girl'
-    num_repeats = 16
-    is_reg = true
