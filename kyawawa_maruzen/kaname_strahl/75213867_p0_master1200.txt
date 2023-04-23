@@ -1,1 +1,1 @@
-k_strahl, solo, smile, short_hair, open_mouth, blue_eyes, hair_ornament, hair_between_eyes, standing, red_hair, tears, hair_flower, miniskirt, crying, music, arm_strap, layered_skirt, singing
+(k_strahl:1.2), solo, smile, short_hair, open_mouth, blue_eyes, hair_ornament, hair_between_eyes, standing, red_hair, tears, hair_flower, miniskirt, crying, music, arm_strap, layered_skirt, singing

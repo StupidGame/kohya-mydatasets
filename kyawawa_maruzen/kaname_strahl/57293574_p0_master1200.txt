@@ -1,1 +1,1 @@
-k_strahl, solo, looking_at_viewer, short_hair, open_mouth, blue_eyes, hair_ornament, bare_shoulders, upper_body, flower, red_hair, tears, hair_flower, crying, letterboxed, crying_with_eyes_open
+(k_strahl:1.2), solo, looking_at_viewer, short_hair, open_mouth, blue_eyes, hair_ornament, bare_shoulders, upper_body, flower, red_hair, tears, hair_flower, crying, letterboxed, crying_with_eyes_open

@@ -1,1 +1,1 @@
-k_strahl, solo, looking_at_viewer, blush, smile, short_hair, open_mouth, blue_eyes, hair_ornament, holding, hair_between_eyes, flower, :d, hair_flower, outstretched_arm, microphone, holding_microphone, idol
+(k_strahl:1.2), solo, looking_at_viewer, blush, smile, short_hair, open_mouth, blue_eyes, hair_ornament, holding, hair_between_eyes, flower, :d, hair_flower, outstretched_arm, microphone, holding_microphone, idol

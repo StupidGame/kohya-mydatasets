@@ -1,1 +1,1 @@
-kaname, kaname, 1girl, solo, looking_at_viewer, smile, simple_background, white_background, necktie, wrist_cuffs, microphone, holding_microphone, idol, idol_clothes
+(kaname:0.8), (kaname:0.8), 1girl, solo, looking_at_viewer, smile, simple_background, white_background, necktie, wrist_cuffs, microphone, holding_microphone, idol, idol_clothes

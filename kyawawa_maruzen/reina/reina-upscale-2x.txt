@@ -1,1 +1,1 @@
-reina, 1girl, solo, looking_at_viewer, smile, simple_background, gloves, white_background, collarbone, jacket, upper_body, detached_sleeves, hood, nail_polish, hooded_jacket
+(reina:0.8), 1girl, solo, looking_at_viewer, smile, simple_background, gloves, white_background, collarbone, jacket, upper_body, detached_sleeves, hood, nail_polish, hooded_jacket

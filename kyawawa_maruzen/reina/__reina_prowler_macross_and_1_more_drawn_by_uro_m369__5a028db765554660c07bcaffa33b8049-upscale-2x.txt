@@ -1,1 +1,1 @@
-reina, 1girl, solo, looking_at_viewer, blush, simple_background, white_background, upper_body, detached_sleeves, midriff, sketch, fur_trim, hand_on_headphones
+(reina:0.8), 1girl, solo, looking_at_viewer, blush, simple_background, white_background, upper_body, detached_sleeves, midriff, sketch, fur_trim, hand_on_headphones

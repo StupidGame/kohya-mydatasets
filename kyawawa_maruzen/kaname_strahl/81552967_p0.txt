@@ -1,1 +1,1 @@
-k_strahl, solo, looking_at_viewer, smile, short_hair, blue_eyes, hair_ornament, standing, red_hair, hair_flower, miniskirt, nail_polish, v, standing_on_one_leg, black_necktie, idol
+(k_strahl:1.2), solo, looking_at_viewer, smile, short_hair, blue_eyes, hair_ornament, standing, red_hair, hair_flower, miniskirt, nail_polish, v, standing_on_one_leg, black_necktie, idol

@@ -1,1 +1,1 @@
-r_strahl, 1girl, solo, looking_at_viewer, short_hair, open_mouth, simple_background, white_background, green_eyes, jacket, upper_body, braid, green_hair, v, headphones
+(r_strahl:1.2), 1girl, solo, looking_at_viewer, short_hair, open_mouth, simple_background, white_background, green_eyes, jacket, upper_body, braid, green_hair, v, headphones
