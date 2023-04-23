@@ -1,1 +1,1 @@
-kaname_strahl, solo, looking_at_viewer, blush, smile, short_hair, blue_eyes, hair_ornament, closed_mouth, upper_body, flower, red_hair, shiny, hair_flower, nail_polish, shiny_hair, rose, yellow_background, red_nails, yellow_flower
+k_strahl, solo, looking_at_viewer, blush, smile, short_hair, blue_eyes, hair_ornament, closed_mouth, upper_body, flower, red_hair, shiny, hair_flower, nail_polish, shiny_hair, rose, yellow_background, red_nails, yellow_flower

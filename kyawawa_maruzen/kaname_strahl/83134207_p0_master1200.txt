@@ -1,1 +1,1 @@
-kaname_strahl, solo, looking_at_viewer, smile, short_hair, bangs, blue_eyes, brown_hair, shirt, hair_ornament, hair_between_eyes, closed_mouth, standing, flower, hair_flower, black_skirt, wing_collar, yellow_flower, idol_clothes
+k_strahl, solo, looking_at_viewer, smile, short_hair, bangs, blue_eyes, brown_hair, shirt, hair_ornament, hair_between_eyes, closed_mouth, standing, flower, hair_flower, black_skirt, wing_collar, yellow_flower, idol_clothes
