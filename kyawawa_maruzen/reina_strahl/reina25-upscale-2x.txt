@@ -1,1 +1,1 @@
-(r_strahl:1.2), 1girl, solo, looking_at_viewer, short_hair, bangs, blue_eyes, simple_background, white_background, braid, parted_lips, green_hair, :o, headphones, portrait
+(r_strahl:0.8), 1girl, solo, looking_at_viewer, short_hair, bangs, blue_eyes, simple_background, white_background, braid, parted_lips, green_hair, :o, headphones, portrait

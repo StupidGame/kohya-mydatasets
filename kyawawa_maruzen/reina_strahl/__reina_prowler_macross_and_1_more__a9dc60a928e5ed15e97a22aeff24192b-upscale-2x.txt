@@ -1,1 +1,1 @@
-(r_strahl:1.2), 1girl, solo, blue_eyes, simple_background, white_background, full_body, green_hair, headphones
+(r_strahl:0.8), 1girl, solo, blue_eyes, simple_background, white_background, full_body, green_hair, headphones

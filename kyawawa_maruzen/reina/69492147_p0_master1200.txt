@@ -1,1 +1,1 @@
-(reina:0.8), 1girl, solo, looking_at_viewer, smile, white_background, collarbone, detached_collar, portrait, gumi
+(reina:1.2), 1girl, solo, looking_at_viewer, smile, white_background, collarbone, detached_collar, portrait, gumi

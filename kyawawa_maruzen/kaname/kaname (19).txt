@@ -1,1 +1,1 @@
-(kaname:0.8), (kaname:0.8), 1girl, solo, looking_at_viewer, smile, open_mouth, skirt, :d, boots, necktie, character_name
+(kaname:1.2), (kaname:1.2), 1girl, solo, looking_at_viewer, smile, open_mouth, skirt, :d, boots, necktie, character_name

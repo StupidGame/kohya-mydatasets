@@ -1,1 +1,1 @@
-(r_strahl:1.2), 1girl, solo, looking_at_viewer, smile, short_hair, green_eyes, green_hair, nail_polish, headphones, zipper, gumi
+(r_strahl:0.8), 1girl, solo, looking_at_viewer, smile, short_hair, green_eyes, green_hair, nail_polish, headphones, zipper, gumi

@@ -1,1 +1,1 @@
-(k_strahl:1.2), solo, looking_at_viewer, smile, short_hair, blue_eyes, hair_ornament, hair_between_eyes, closed_mouth, standing, full_body, flower, heart, red_hair, shiny, hair_flower, miniskirt, shiny_hair, pink_background, high_heel_boots, yellow_flower, layered_skirt, yellow_rose
+(k_strahl:0.8), solo, looking_at_viewer, smile, short_hair, blue_eyes, hair_ornament, hair_between_eyes, closed_mouth, standing, full_body, flower, heart, red_hair, shiny, hair_flower, miniskirt, shiny_hair, pink_background, high_heel_boots, yellow_flower, layered_skirt, yellow_rose

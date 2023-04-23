@@ -1,1 +1,1 @@
-(k_strahl:1.2), solo, looking_at_viewer, smile, short_hair, blue_eyes, simple_background, hair_ornament, white_background, hair_between_eyes, bare_shoulders, upper_body, flower, red_hair, hair_flower
+(k_strahl:0.8), solo, looking_at_viewer, smile, short_hair, blue_eyes, simple_background, hair_ornament, white_background, hair_between_eyes, bare_shoulders, upper_body, flower, red_hair, hair_flower

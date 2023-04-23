@@ -1,1 +1,1 @@
-(r_strahl:1.2), 1girl, solo, smile, short_hair, simple_background, white_background, green_eyes, full_body, green_hair, headphones, gumi
+(r_strahl:0.8), 1girl, solo, smile, short_hair, simple_background, white_background, green_eyes, full_body, green_hair, headphones, gumi

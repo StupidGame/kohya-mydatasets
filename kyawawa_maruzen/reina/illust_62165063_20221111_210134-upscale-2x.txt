@@ -1,1 +1,1 @@
-(reina:0.8), 1girl, solo, looking_at_viewer, open_mouth, simple_background, white_background, navel, bare_shoulders, detached_sleeves, midriff, hood, crop_top, detached_collar, hood_down, sleeveless_jacket
+(reina:1.2), 1girl, solo, looking_at_viewer, open_mouth, simple_background, white_background, navel, bare_shoulders, detached_sleeves, midriff, hood, crop_top, detached_collar, hood_down, sleeveless_jacket

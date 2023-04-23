@@ -1,1 +1,1 @@
-(k_strahl:1.2), solo, looking_at_viewer, smile, short_hair, blue_eyes, simple_background, hair_ornament, hair_between_eyes, closed_mouth, upper_body, flower, hair_bow, red_hair, shiny, signature, hair_flower, shiny_hair, wing_collar, portrait, yellow_background, yellow_flower
+(k_strahl:0.8), solo, looking_at_viewer, smile, short_hair, blue_eyes, simple_background, hair_ornament, hair_between_eyes, closed_mouth, upper_body, flower, hair_bow, red_hair, shiny, signature, hair_flower, shiny_hair, wing_collar, portrait, yellow_background, yellow_flower

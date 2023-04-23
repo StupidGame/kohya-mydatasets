@@ -1,1 +1,1 @@
-(kaname:0.8), 1girl, solo, looking_at_viewer, smile, open_mouth, skirt, simple_background, white_background, :d, necktie, high_heels, microphone
+(kaname:1.2), 1girl, solo, looking_at_viewer, smile, open_mouth, skirt, simple_background, white_background, :d, necktie, high_heels, microphone

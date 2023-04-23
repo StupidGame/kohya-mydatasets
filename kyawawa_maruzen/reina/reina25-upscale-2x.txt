@@ -1,1 +1,1 @@
-(reina:0.8), 1girl, solo, looking_at_viewer, bangs, simple_background, white_background, hairband, parted_lips, :o, portrait, white_hairband
+(reina:1.2), 1girl, solo, looking_at_viewer, bangs, simple_background, white_background, hairband, parted_lips, :o, portrait, white_hairband

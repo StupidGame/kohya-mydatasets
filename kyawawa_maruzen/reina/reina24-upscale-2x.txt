@@ -1,1 +1,1 @@
-(reina:0.8), 1girl, solo, looking_at_viewer, smile, simple_background, gloves, white_background, closed_mouth, upper_body, detached_sleeves, cape, nail_polish, v, zipper, blue_gloves
+(reina:1.2), 1girl, solo, looking_at_viewer, smile, simple_background, gloves, white_background, closed_mouth, upper_body, detached_sleeves, cape, nail_polish, v, zipper, blue_gloves

@@ -1,1 +1,1 @@
-(k_strahl:1.2), solo, short_hair, open_mouth, blue_eyes, simple_background, hair_ornament, white_background, hair_between_eyes, flower, red_hair, hair_flower, idol
+(k_strahl:0.8), solo, short_hair, open_mouth, blue_eyes, simple_background, hair_ornament, white_background, hair_between_eyes, flower, red_hair, hair_flower, idol

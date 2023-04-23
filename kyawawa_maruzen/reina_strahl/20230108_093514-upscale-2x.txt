@@ -1,1 +1,1 @@
-(r_strahl:1.2), 1girl, solo, looking_at_viewer, smile, short_hair, blue_eyes, simple_background, white_background, bare_shoulders, closed_mouth, jacket, upper_body, green_hair, collar, headphones, zipper_jacket
+(r_strahl:0.8), 1girl, solo, looking_at_viewer, smile, short_hair, blue_eyes, simple_background, white_background, bare_shoulders, closed_mouth, jacket, upper_body, green_hair, collar, headphones, zipper_jacket
