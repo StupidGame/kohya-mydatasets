@@ -1,0 +1,14 @@
+[general]
+shuffle_caption = true
+caption_extension = '.txt'
+keep_tokens = 1
+
+[[datasets]]
+resolution = 512
+batch_size = 2
+enable_bucket = true
+
+    [[datasets.subsets]]
+    image_dir = '/content/kohya-mydatasets/nanami'
+    color_aug = false
+    num_repeats = 40
