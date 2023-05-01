@@ -5,7 +5,7 @@ keep_tokens = 2
 
 [[datasets]]
 resolution = 512
-batch_size = 4
+batch_size = 2
 keep_tokens = 2
 enable_bucket = true
 
