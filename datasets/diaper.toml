@@ -3,7 +3,7 @@ caption_extension = '.txt'
 
 [[datasets]]
 resolution = 512
-batch_size = 2
+batch_size = 4
 enable_bucket = true
 
     [[datasets.subsets]]
