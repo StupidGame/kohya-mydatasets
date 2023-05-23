@@ -8,6 +8,7 @@ resolution = 512
 batch_size = 4
 keep_tokens = 2
 enable_bucket = true
+color_aug = false
 
 
     [[datasets.subsets]]
