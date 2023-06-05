@@ -11,7 +11,13 @@ enable_bucket = true
 
 
     [[datasets.subsets]]
-    image_dir = '/content/kohya-mydatasets/galaxybad'
+    image_dir = '/content/kohya-mydatasets/gagagabad'
+    color_aug = false
+    num_repeats = 2
+    class_tokens = 'galaxybad person'
+
+    [[datasets.subsets]]
+    image_dir = '/content/kohya-mydatasets/gogogobad'
     color_aug = false
     num_repeats = 2
     class_tokens = 'galaxybad person'
