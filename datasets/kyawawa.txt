@@ -1,3 +1,3 @@
-reina, masterpiece, best quality --n low quality, worst quality, bad anatomy,bad composition, poor, low effort --w 512 --h 512 --d 1 --l 7 --s 20
-makina, masterpiece, best quality --n low quality, worst quality, bad anatomy,bad composition, poor, low effort --w 512 --h 512 --d 1 --l 7 --s 20
-kaname, masterpiece, best quality --n low quality, worst quality, bad anatomy, bad composition, poor, low effort --w 512 --h 512 --d 1 --l 7 --s 20
+reina prowler, masterpiece, best quality --n low quality, worst quality, bad anatomy,bad composition, poor, low effort --w 512 --h 512 --d 1 --l 7 --s 20
+makina nakajima, masterpiece, best quality --n low quality, worst quality, bad anatomy,bad composition, poor, low effort --w 512 --h 512 --d 1 --l 7 --s 20
+kaname buccaneer, masterpiece, best quality --n low quality, worst quality, bad anatomy, bad composition, poor, low effort --w 512 --h 512 --d 1 --l 7 --s 20
