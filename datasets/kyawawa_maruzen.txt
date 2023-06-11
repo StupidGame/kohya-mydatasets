@@ -1,5 +1,5 @@
-reina, r_strahl, masterpiece, best quality --n low quality, worst quality, bad anatomy,bad composition, poor, low effort --w 512 --h 512 --d 1 --l 7 --s 20
-makina, m_strahl, masterpiece, best quality --n low quality, worst quality, bad anatomy,bad composition, poor, low effort --w 512 --h 512 --d 1 --l 7 --s 20
-kaname, k_strahl, masterpiece, best quality --n low quality, worst quality, bad anatomy, bad composition, poor, low effort --w 512 --h 512 --d 1 --l 7 --s 20
-reina, m_strahl, masterpiece, best quality --n low quality, worst quality, bad anatomy,bad composition, poor, low effort --w 512 --h 512 --d 1 --l 7 --s 20
-makina, r_strahl, masterpiece, best quality --n low quality, worst quality, bad anatomy,bad composition, poor, low effort --w 512 --h 512 --d 1 --l 7 --s 20
+reina prowler, reinashtrahl, masterpiece, best quality --n low quality, worst quality, bad anatomy,bad composition, poor, low effort --w 512 --h 512 --d 1 --l 7 --s 20
+makina nakajima, makinashtrahl, masterpiece, best quality --n low quality, worst quality, bad anatomy,bad composition, poor, low effort --w 512 --h 512 --d 1 --l 7 --s 20
+kaname buccaneer, kanameshtrahl, masterpiece, best quality --n low quality, worst quality, bad anatomy, bad composition, poor, low effort --w 512 --h 512 --d 1 --l 7 --s 20
+reina prowler, makinashtrahl, masterpiece, best quality --n low quality, worst quality, bad anatomy,bad composition, poor, low effort --w 512 --h 512 --d 1 --l 7 --s 20
+makina nakajima, reinashtrahl, masterpiece, best quality --n low quality, worst quality, bad anatomy,bad composition, poor, low effort --w 512 --h 512 --d 1 --l 7 --s 20
