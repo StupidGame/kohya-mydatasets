@@ -24,7 +24,6 @@ enable_bucket = true
     [[datasets.subsets]]
     image_dir = '/content/kohya-mydatasets/girl'
     color_aug = false
-    num_repeats = 10
-    shuffle_caption = true
+    num_repeats = 5
     class_tokens = '1girl'
     is_reg = true
