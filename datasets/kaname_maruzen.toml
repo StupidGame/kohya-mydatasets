@@ -25,5 +25,4 @@ enable_bucket = true
     image_dir = '/content/kohya-mydatasets/girl'
     color_aug = false
     num_repeats = 5
-    class_tokens = '1girl'
     is_reg = true
