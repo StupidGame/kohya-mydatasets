@@ -30,5 +30,4 @@ color_aug = false
     image_dir = '/content/kohya-mydatasets/girl'
     color_aug = false
     num_repeats = 10
-    class_tokens = '1girl'
     is_reg = true
