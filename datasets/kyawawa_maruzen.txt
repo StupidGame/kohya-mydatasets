@@ -3,3 +3,6 @@ makina nakajima, makinashtrahl, masterpiece, best quality --n low quality, worst
 kaname buccaneer, kanameshtrahl, masterpiece, best quality --n low quality, worst quality, bad anatomy, bad composition, poor, low effort --w 512 --h 512 --d 1 --l 7 --s 20
 reina prowler, makinashtrahl, masterpiece, best quality --n low quality, worst quality, bad anatomy,bad composition, poor, low effort --w 512 --h 512 --d 1 --l 7 --s 20
 makina nakajima, reinashtrahl, masterpiece, best quality --n low quality, worst quality, bad anatomy,bad composition, poor, low effort --w 512 --h 512 --d 1 --l 7 --s 20
+1girl, blonde hair, blue eyes, long hair, reinashtrahl, masterpiece, best quality --n low quality, worst quality, bad anatomy,bad composition, poor, low effort --w 512 --h 512 --d 1 --l 7 --s 20
+1girl, blonde hair, blue eyes, long hair, makinashtrahl, masterpiece, best quality --n low quality, worst quality, bad anatomy,bad composition, poor, low effort --w 512 --h 512 --d 1 --l 7 --s 20
+1girl, blonde hair, blue eyes, long hair, kanameshtrahl, masterpiece, best quality --n low quality, worst quality, bad anatomy,bad composition, poor, low effort --w 512 --h 512 --d 1 --l 7 --s 20
