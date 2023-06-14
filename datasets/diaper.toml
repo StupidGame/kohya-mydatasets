@@ -3,7 +3,7 @@ caption_extension = '.txt'
 
 [[datasets]]
 resolution = 512
-batch_size = 4
+batch_size = 1
 enable_bucket = true
 
     [[datasets.subsets]]
@@ -15,3 +15,4 @@ enable_bucket = true
     image_dir = '/content/kohya-mydatasets/peescat/girl'
     color_aug = false
     num_repeats = 1
+    is_reg = true
