@@ -1,5 +1,4 @@
 [general]
-shuffle_caption = true
 caption_extension = '.txt'
 keep_tokens = 2
 
@@ -14,14 +13,11 @@ color_aug = false
     [[datasets.subsets]]
     image_dir = '/content/kohya-mydatasets/kyawawa/reina'
     num_repeats = 20
-    shuffle_caption = true
 
     [[datasets.subsets]]
     image_dir = '/content/kohya-mydatasets/kyawawa/makina'
     num_repeats = 20
-    shuffle_caption = true
 
     [[datasets.subsets]]
     image_dir = '/content/kohya-mydatasets/kyawawa/kaname'
     num_repeats = 20
-    shuffle_caption = true
