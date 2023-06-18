@@ -1,5 +1,4 @@
 [general]
-shuffle_caption = true
 caption_extension = '.txt'
 keep_tokens = 1
 
