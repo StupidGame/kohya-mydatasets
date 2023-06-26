@@ -1,13 +1,11 @@
 [general]
 caption_extension = '.txt'
-keep_tokens = 2
 
 [[datasets]]
 resolution = 512
 batch_size = 4
-keep_tokens = 2
 enable_bucket = true
-color_aug = false
+color_aug = true
 
 
     [[datasets.subsets]]
