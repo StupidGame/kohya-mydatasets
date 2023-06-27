@@ -5,7 +5,7 @@ caption_extension = '.txt'
 resolution = 512
 batch_size = 4
 enable_bucket = true
-color_aug = true
+color_aug = false
 
     [[datasets.subsets]]
     image_dir = '/content/kohya-mydatasets/kyawawa/makina'
