@@ -1,14 +1,12 @@
 [general]
-shuffle_caption = true
 caption_extension = '.txt'
-keep_tokens = 1
 
 [[datasets]]
 resolution = 512
-batch_size = 2
+batch_size = 4
 enable_bucket = true
 
     [[datasets.subsets]]
     image_dir = '/content/kohya-mydatasets/suzuran'
     color_aug = false
-    num_repeats = 4
+    num_repeats = 20
