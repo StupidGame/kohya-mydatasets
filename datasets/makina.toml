@@ -2,7 +2,7 @@
 caption_extension = '.txt'
 
 [[datasets]]
-resolution = 512
+resolution = 768
 batch_size = 4
 enable_bucket = true
 color_aug = false
